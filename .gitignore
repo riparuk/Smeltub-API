@@ -16,7 +16,7 @@ ENV/
 *.log
 
 # Dependency directories
-lib/
+# lib/
 libs/
 library/
 libraries/
